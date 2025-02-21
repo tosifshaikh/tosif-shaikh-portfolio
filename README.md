@@ -1,2 +1,2 @@
-# tosif-shaikh-portfolio
-Tosif Shaikh MERN Stack portfolio
+# my-mern-portfolio
+complete mern stack portfolio
