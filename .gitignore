@@ -1,5 +1,12 @@
 
+# Ignore everything in the client folder
+/client/*
 
+# Do not ignore the dist folder
+!/client/dist/
+
+# If there are files inside dist (like subdirectories or files within dist), ensure they are not ignored
+!/client/dist/**/*
 # Logs
 logs
 *.log
